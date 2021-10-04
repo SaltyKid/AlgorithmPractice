@@ -8,9 +8,11 @@
 * @version 0.0.1
 * @date    2021-10-04
 * @license GNU General Public License (GPL) 
-* @brief   Omit
+* @brief   简单排序算法
 *          This file contains:
-*              - Omit
+*              - insert_sort() 插入排序
+*              - bubble_sort() 冒泡排序
+*              - select_sort() 选择排t
 *
 * -----------------------------------------------------------------------------
 * Change History:
